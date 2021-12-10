@@ -1,4 +1,4 @@
-## Hi, i'm Bruno Fagner, Computer Scient student.
+## Hi, i'm Bruno Fagner, Computer Science student.
 <div align="center">
   <a href="https://github.com/brunofagner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofagner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
